@@ -6,7 +6,7 @@
 Summary:	An implementation of time.monotonic() for Python 2 & < 3.3
 Name:		python-monotonic
 Version:	1.3
-Release:	1
+Release:	2
 License:	Apache
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/m/monotonic/monotonic-%{version}.tar.gz
