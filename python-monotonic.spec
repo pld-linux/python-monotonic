@@ -7,7 +7,7 @@ Summary:	An implementation of time.monotonic() for Python 2
 Summary(pl.UTF-8):	Implementacja time.monotinic() dla Pythona 2
 Name:		python-monotonic
 Version:	1.6
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/monotonic/
